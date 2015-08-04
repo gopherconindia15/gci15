@@ -1,5 +1,5 @@
 url: http://www.gophercon.in/
-title: GopherCon India 2016
+title: GopherCon India 2015
 
 
 google_analytics_tracking_id: UA-51493925-1
@@ -16,3 +16,4 @@ disqus_shortname: gopherconindia
 twitter_username: GopherConIndia
 
 encoding: UTF-8
+port: 5000
